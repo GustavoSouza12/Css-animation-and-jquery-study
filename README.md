@@ -6,10 +6,6 @@
   <img height="500" src="https://github.com/GustavoSouza12/Css-animation-and-jquery-study/blob/master/gifAnimationsStudy.gif"
 </p>
 
-<h2>📕 What i learned?</h2>
-
-<p>making this project i understand little more about css animations and how manipulate thing on the page using jquery</p>
-
 <h2>🚀 Technologies</h2>
  
 <ul>
